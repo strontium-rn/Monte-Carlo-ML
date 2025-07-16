@@ -40,7 +40,7 @@ monte-carlo-ml-project/
 ### Supported Companies
 - **AHPC** - Arun Hydropower Company Limited
 - **NABIL** - NABIL Bank Limited
-- **NICL** - Nepal Investment Bank Limited
+- **NLIC** - Nepal Life Insurance 
 - **NTC** - Nepal Telecom Company Limited
 - **SHL** - Soaltee Hotel Limited 
 
