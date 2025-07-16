@@ -42,5 +42,7 @@ monte-carlo-ml-project/
 - **NABIL** - NABIL Bank Limited
 - **NICL** - Nepal Investment Bank Limited
 - **NTC** - Nepal Telecom Company Limited
-- **SHL** - Shivam Hydropower Limited
+- **SHL** - Soaltee Hotel Limited 
+
+
 
